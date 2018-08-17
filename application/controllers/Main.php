@@ -7,7 +7,7 @@ class Main extends MY_Controller{
 
 
   function index(){
-    $this->load->view('head');
+    $this->load->view('main');
 
   }
 }

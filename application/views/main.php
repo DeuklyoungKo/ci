@@ -10,11 +10,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>I try to get a job</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./git/design/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Custom fonts for this template -->
     <link href="./git/design/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -24,7 +23,8 @@
 
     <!-- Custom styles for this template -->
     <link href="./git/design/css/agency.min.css" rel="stylesheet">
-
+    <!-- migration styles -->
+    <link href="./static/css/style.css" rel="stylesheet">
   </head>
 
   <body id="page-top">
@@ -32,7 +32,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Hallo. I am Gon</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -40,16 +40,16 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+              <a class="nav-link js-scroll-trigger" href="#services">Technical Skills</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+              <a class="nav-link js-scroll-trigger" href="#about">Work Experience</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#team">Team</a>
+              <a class="nav-link js-scroll-trigger" href="#team">About This Site</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
@@ -63,8 +63,8 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Our Studio!</div>
-          <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
+          <div class="intro-lead-in">I try to get a job.</div>
+          <div class="intro-heading text-uppercase">I am a <br>&lt;?<span class="phpTeg">PHP</span> developer.</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
         </div>
       </div>
@@ -75,34 +75,34 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Services</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Technical Skills</h2>
+            <h3 class="section-subheading text-muted">&nbsp;</h3>
           </div>
         </div>
         <div class="row text-center">
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+              <i class="fa fa-server fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">E-Commerce</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <h4 class="service-heading">Back End Development</h4>
+            <p class="text-muted">PHP,<br>Classic ASP</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+              <i class="fa fa-database fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Responsive Design</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <h4 class="service-heading">DataBase</h4>
+            <p class="text-muted">Mssql,<br>Mysql</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+              <i class="fa fa-desktop fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Web Security</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <h4 class="service-heading">Front End Development</h4>
+            <p class="text-muted">Java Script,<br>JQuery</p>
           </div>
         </div>
       </div>
@@ -114,92 +114,78 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">representation websites still online<br>(I was involved as php developer)</h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+            <a class="portfolio-link"  href="http://dblightec.com" target="_blank">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+                  <i class="fa fa-link fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./git/design/img/portfolio/01-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="./static/img/portfolio01.png" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Threads</h4>
-              <p class="text-muted">Illustration</p>
+              <h4><a href="http://dblightec.com" target="_blank">DB Lightec</a></h4>
+              <p class="text-muted">(for PC)</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
+            <a class="portfolio-link" href="http://www.enpranishop.com" target="_blank">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+                  <i class="fa fa-link fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./git/design/img/portfolio/02-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="./static/img/portfolio02.png" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
+              <h4><a href="http://www.enpranishop.com" target="_blank">Enprani</a></h4>
+              <p class="text-muted">(for PC, used Framework)</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+            <a class="portfolio-link" href="http://roaming.kt.com/rental/eng/main.asp" target="_blank">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+                  <i class="fa fa-link fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./git/design/img/portfolio/03-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="./static/img/portfolio03.png" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Finish</h4>
-              <p class="text-muted">Identity</p>
+              <h4><a href="http://roaming.kt.com/rental/eng/main.asp" target="_blank">roaming.kt.com</a></h4>
+              <p class="text-muted">(for PC&Mobile)</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
+            <a class="portfolio-link" href="http://globalroaming.kt.com" target="_blank">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+                  <i class="fa fa-link fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./git/design/img/portfolio/04-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="./static/img/portfolio04.png" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Lines</h4>
-              <p class="text-muted">Branding</p>
+              <h4><a href="http://globalroaming.kt.com" target="_blank">KT Roaming</a></h4>
+              <p class="text-muted">(for PC)</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
+            <a class="portfolio-link" href="http://eng.poscoenergy.com/eng/renew/_service/main.asp" target="_blank">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
+                  <i class="fa fa-link fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./git/design/img/portfolio/05-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="./static/img/portfolio05.png" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Southwest</h4>
-              <p class="text-muted">Website Design</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fa fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="./git/design/img/portfolio/06-thumbnail.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Window</h4>
-              <p class="text-muted">Photography</p>
+              <h4><a href="http://eng.poscoenergy.com/eng/renew/_service/main.asp" target="_blank">Posco Energy</a></h4>
+              <p class="text-muted">(for PC)</p>
             </div>
           </div>
         </div>
@@ -211,8 +197,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">About</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Work Experience</h2>
+            <h3 class="section-subheading text-muted">&nbsp;</h3>
           </div>
         </div>
         <div class="row">
@@ -220,29 +206,29 @@
             <ul class="timeline">
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="./git/design/img/about/1.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="./static/img/story05.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2009-2011</h4>
-                    <h4 class="subheading">Our Humble Beginnings</h4>
+                    <h4>02.2008-09.2016</h4>
+                    <h4 class="subheading">Nexbrain</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Integrated marketing communication company, <br>Position : Deputy Manager of Infra Team(Web developer),<br> Main Task : Developing websites, developing on-offline marketing tool by web server,<br> Website:<a href="http://www.nexbrain.com">nexbrain.com</a></p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="./git/design/img/about/2.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="./static/img/story02.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>March 2011</h4>
-                    <h4 class="subheading">An Agency is Born</h4>
+                    <h4>08.2004 – 02.2006</h4>
+                    <h4 class="subheading">Migam communication</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Web agency company, <br>Position : Assistant Manager of Web Development Team, <br> Main Task : Developing websites</p>
                   </div>
                 </div>
               </li>
@@ -252,33 +238,46 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>December 2012</h4>
-                    <h4 class="subheading">Transition to Full Service</h4>
+                    <h4>06.2003 – 03.2004</h4>
+                    <h4 class="subheading">Seoul Education Culture Institution</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Teachers supplying and recruiting company, <br>Position : Assistant Manager of Service Team, <br> Main Task : Developing recruiting information manager system</p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="./git/design/img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="./static/img/story04.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>July 2014</h4>
-                    <h4 class="subheading">Phase Two Expansion</h4>
+                    <h4>2002</h4>
+                    <h4 class="subheading">Graduation University</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Bachelor of Science in Enginnering in Mechanical Engineering, <br>Certificate : Sun Certified Programmer for Java</p>
                   </div>
                 </div>
               </li>
+              <li>
+                <div class="timeline-image">
+                  <img class="rounded-circle img-fluid" src="./static/img/story03.png" alt="">
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <h4>04.2000 – 04.2001</h4>
+                    <h4 class="subheading">Eporin.com</h4>
+                  </div>
+                  <div class="timeline-body">
+                    <p class="text-muted">Marriage internet live broadcasting company, <br>Position : Assistant Manager of Planning Team, <br> Main Task : Planning websites</p>
+                  </div>
+                </div>
+              </li>
+
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <h4>Be Part
-                    <br>Of Our
-                    <br>Story!</h4>
+                  <h4><br>My Story!</h4>
                 </div>
               </li>
             </ul>
@@ -292,8 +291,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">About This Site</h2>
+            <h3 class="section-subheading text-muted">&nbsp;</h3>
           </div>
         </div>
         <div class="row">
