@@ -8,6 +8,6 @@ header.masthead{
   background-image: url(/ci/static/img/main01.png);
 }
 
-.timeline>li .timeline-image h4 {
-
+.addTopPadding{
+  margin-top: 2rem;
 }
