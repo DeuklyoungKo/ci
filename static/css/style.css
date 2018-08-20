@@ -11,3 +11,7 @@ header.masthead{
 .addTopPadding{
   margin-top: 2rem;
 }
+
+.text-white{
+  color: #FFFFFF !important;
+}
