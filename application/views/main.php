@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>I try to get a job</title>
+    <title>I'm looking for a job</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./git/design/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -63,7 +63,7 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">I try to get a job.</div>
+          <div class="intro-lead-in">I'm looking for a job.</div>
           <div class="intro-heading text-uppercase">I am a <br>&lt;?<span class="phpTeg">PHP</span> developer.</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
         </div>
@@ -236,8 +236,7 @@
                     <h4 class="subheading">Migam communication</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">I made this website alone. I used a Bootstrap free theme because I am not a graphic designer.</p>
-                    <p class="text-muted">I made this website alone. I used a Bootstrap free theme because I am not a graphic designer.</p>
+                    <p class="text-muted">Web agency company,<br>Position : Assistant Manager of Web Development Team, Main Task : Developing websites</p>
                   </div>
                 </div>
               </li>
@@ -275,7 +274,7 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>04.2000 – 04.2001</h4>
+                    <h4>10.2000 – 03.2001</h4>
                     <h4 class="subheading">Eporin.com</h4>
                   </div>
                   <div class="timeline-body">
