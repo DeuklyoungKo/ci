@@ -15,12 +15,13 @@
     <!-- Bootstrap core CSS -->
     <link href="./git/design/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom fonts for this template -->
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     <link href="./git/design/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-
     <!-- Custom styles for this template -->
     <link href="./git/design/css/agency.min.css" rel="stylesheet">
     <!-- migration styles -->
@@ -264,7 +265,7 @@
                     <h4 class="subheading">Graduation University</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Bachelor of Science in Enginnering in Mechanical Engineering, <br>Certificate : Sun Certified Programmer for Java</p>
+                    <p class="text-muted">Dongguk University(<a href="http://www.dongguk.edu" target="_blank">dongguk.edu</a>),<br>Bachelor of Science in Enginnering in Mechanical Engineering, <br>Certificate : Sun Certified Programmer for Java</p>
                   </div>
                 </div>
               </li>
@@ -380,20 +381,16 @@
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-facebook"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.linkedin.com/in/dgon/?locale=en_US" target="_blank">
                   <i class="fa fa-linkedin"></i>
                 </a>
               </li>
+              <li class="list-inline-item">
+                <a href="https://www.xing.com/profile/Deuklyoung_Ko/cv?sc_o=mxb_p" target="_blank">
+                  <i class="fab fa-xing-square"></i>
+                </a>
+              </li>
+
             </ul>
           </div>
 <!--
