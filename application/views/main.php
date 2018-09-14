@@ -330,7 +330,7 @@
                 If you are interested in me, please, send email or text or call me.<br>
                 But I am afraid of that I cannot speak Germany.<br><br>
                 Email: <a href="mailto:DeutschGon@gmail.com">DeutschGon@gmail.com</a><br>
-                Phone: +491777093335
+                Phone: +49 177 709 3335
               </p>
           </div>
         </div>
