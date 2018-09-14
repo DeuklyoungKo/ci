@@ -265,7 +265,7 @@
                     <h4 class="subheading">Graduation University</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Dongguk University(<a href="http://www.dongguk.edu" target="_blank">dongguk.edu</a>),<br>Bachelor of Science in Enginnering in Mechanical Engineering, <br>Certificate : Sun Certified Programmer for Java</p>
+                    <p class="text-muted">Dongguk University(<a href="http://www.dongguk.edu/mbs/en/index.jsp" target="_blank">dongguk.edu</a>),<br>Bachelor of Science in Enginnering in Mechanical Engineering, <br>Certificate : Sun Certified Programmer for Java</p>
                   </div>
                 </div>
               </li>
@@ -376,7 +376,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Copyright 2018 Gon All rights reserved.</span>
+            <span class="copyright">Copyright 2018 Deuklyoung Ko All rights reserved.</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
