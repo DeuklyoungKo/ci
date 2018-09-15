@@ -55,6 +55,15 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Made by other framework</a>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="https://www.dgon.eu/wp">WordPress Ver.</a>
+<!--
+                <div class="dropdown-divider"></div>
+-->
+              </div>
+            </li>
           </ul>
         </div>
       </div>
@@ -390,26 +399,25 @@
                   <i class="fab fa-xing-square"></i>
                 </a>
               </li>
+            </ul>
+          </div>
 
-            </ul>
-          </div>
-<!--
           <div class="col-md-4">
-            <ul class="list-inline quicklinks">
-              <li class="list-inline-item">
-                <a href="#">Privacy Policy</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">Terms of Use</a>
-              </li>
+            <ul class="list-inline">
+                <li class="list-inline-item">
+                    <h3>
+                        <a href="https://www.dgon.eu/wp" class="badge badge-danger">WordPress ver.</a>
+                    </h3>
+                </li>
             </ul>
           </div>
--->
+
         </div>
       </div>
     </footer>
 
     <!-- Portfolio Modals -->
+
 
 
     <!-- Bootstrap core JavaScript -->
