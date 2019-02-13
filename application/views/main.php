@@ -58,7 +58,9 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Made by other framework</a>
               <div class="dropdown-menu">
+                <a class="dropdown-item" href="https://www.dgon.eu/sf">Symfony Ver.</a>
                 <a class="dropdown-item" href="https://www.dgon.eu/wp">WordPress Ver.</a>
+
 <!--
                 <div class="dropdown-divider"></div>
 -->
@@ -405,9 +407,14 @@
           <div class="col-md-4">
             <ul class="list-inline">
                 <li class="list-inline-item">
-                    <h3>
+                    <h4>
+                        <a href="https://www.dgon.eu/sf" class="badge badge-danger">Symfony ver.</a>
+                    </h4>
+                </li>
+                <li class="list-inline-item">
+                    <h4>
                         <a href="https://www.dgon.eu/wp" class="badge badge-danger">WordPress ver.</a>
-                    </h3>
+                    </h4>
                 </li>
             </ul>
           </div>
