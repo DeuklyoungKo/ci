@@ -58,8 +58,8 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Made by other framework</a>
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="https://www.dgon.eu/sf">Symfony Ver.</a>
-                <a class="dropdown-item" href="https://www.dgon.eu/wp">WordPress Ver.</a>
+                <a class="dropdown-item" href="http://www.phpko.de/sf">Symfony Ver.</a>
+                <a class="dropdown-item" href="http://www.phpko.de/wp">WordPress Ver.</a>
 
 <!--
                 <div class="dropdown-divider"></div>
@@ -408,12 +408,12 @@
             <ul class="list-inline">
                 <li class="list-inline-item">
                     <h4>
-                        <a href="https://www.dgon.eu/sf" class="badge badge-danger">Symfony ver.</a>
+                        <a href="https://www.phpko.de/sf" class="badge badge-danger">Symfony ver.</a>
                     </h4>
                 </li>
                 <li class="list-inline-item">
                     <h4>
-                        <a href="https://www.dgon.eu/wp" class="badge badge-danger">WordPress ver.</a>
+                        <a href="https://www.phpko.de/wp" class="badge badge-danger">WordPress ver.</a>
                     </h4>
                 </li>
             </ul>
