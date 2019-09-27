@@ -408,12 +408,12 @@
             <ul class="list-inline">
                 <li class="list-inline-item">
                     <h4>
-                        <a href="https://www.phpko.de/sf" class="badge badge-danger">Symfony ver.</a>
+                        <a href="http://www.phpko.de/sf" class="badge badge-danger">Symfony ver.</a>
                     </h4>
                 </li>
                 <li class="list-inline-item">
                     <h4>
-                        <a href="https://www.phpko.de/wp" class="badge badge-danger">WordPress ver.</a>
+                        <a href="http://www.phpko.de/wp" class="badge badge-danger">WordPress ver.</a>
                     </h4>
                 </li>
             </ul>
